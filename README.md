@@ -3,7 +3,6 @@
 </p>
 <h1 align="center">Hi 👋, I'm Malik Mobeen Karim</h1>
 <h3 align="center">A passionate AI Engineer from Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=malikmobeen12&label=Profile%20views&color=0e75b6&style=flat" alt="malikmobeen12" /> </p>
 

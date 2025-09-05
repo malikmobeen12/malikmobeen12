@@ -10,17 +10,17 @@
 
 <p align="left"> <a href="https://twitter.com/_moobiee_" target="blank"><img src="https://img.shields.io/twitter/follow/_moobiee_?logo=twitter&style=for-the-badge" alt="_moobiee_" /></a> </p>
 
-- 🔭 I’m currently working on **Real Time Product Classifier for Supermarkets**
+- 🔭 I’m currently working on **RAGs and GENAI**
 
-- 🌱 I’m currently learning **MLOps**
+- 🌱 I’m currently learning **CI/CD Pipelines**
 
 - 👯 I’m looking to collaborate on **AI Projects**
 
-- 💬 Ask me about **Python, Machine Learning, NLP**
+- 💬 Ask me about **GENAI, ML, AI, DL**
 
 - 📫 How to reach me **mobeenkarim21@gmail.com**
 
-- 📄 Know about my experiences [https://malikmobeencv.tiiny.site](https://malikmobeencv.tiiny.site)
+- 📄 Know about my experiences [https://malikmobeencv.tiiny.site]
 
 - ⚡ Fun fact **I love football and video games.**
 
